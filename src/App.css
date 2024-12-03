@@ -1,0 +1,25 @@
+/* GENERAL CSS */
+
+* {
+    font-family: 'Spectral', serif;
+}
+
+/* Index (Homepage) CSS */
+
+main {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 50px;
+}
+
+.page-title {
+    color: gray;
+    text-align: center;
+}
+
+.page-title-container {
+    padding: 40px;
+}
+
